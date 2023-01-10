@@ -83,18 +83,10 @@ def predict():
        
         print("-----------PREDICTION###--------------->")
         
-        if prediction >= 5.5:
-            message1 ="the user has moved faster than normal"
-            
-        else:
-            message1 ="the user moves slowly"
-            
-            
-        
         
     
         
-    return render_template("result.html", prediction_text = "The average Speed is {}".format(prediction), alert_text =  "Finally is {}".format(message1))
+    return render_template("result.html", prediction_text = "The average Speed is {}".format(prediction))
     
 
     
