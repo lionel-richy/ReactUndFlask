@@ -10,3 +10,4 @@ Der Mobile Client des Projekts wurde mit React entwickelt und bietet eine benutz
 
 Mit Trackwise werden die Nutzer von einer genaueren Routenplanung und einer Echtzeit-Benachrichtigung bei unvorhergesehenen Änderungen profitieren und so ihr tägliches Reiseerlebnis verbessern.
 
+les utilisateurs bénéficieront d'une planification de trajets plus précise et d'une notification en temps réel en cas de changements imprévus, améliorant ainsi leur expérience de déplacement quotidien
